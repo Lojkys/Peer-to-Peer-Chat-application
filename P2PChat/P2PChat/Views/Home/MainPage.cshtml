@@ -1,0 +1,25 @@
+﻿@using P2PChat.Models;
+@model User
+
+
+@{
+    ViewData["Title"] = "MainPage";
+}
+
+<h4>Hello User: @Model.Username</h4>
+<a href="/">Log out</a>
+
+<ul>
+    @foreach (var message in Model.Messages)
+    {
+        <li>@Model.Username</li>
+        <p>@message.Text</p>
+    }
+</ul>
+
+<form action="/send/@Model.ID" method="post" id="forma">
+    <textarea form="forma" style="width:250px; height:50px; margin:0;" name="text" placeholder="Enter your message here..."></textarea>
+    <input type="number" name="userId" value="@Model.ID" hidden />
+    <button type="submit">Send</button>
+</form>
+

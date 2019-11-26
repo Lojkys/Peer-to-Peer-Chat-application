@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form action="/login" method="post">
+    <label for="Username">Choose your username: </label>
+    <input type="text" name="Username" value="" required />
+    <button type="submit" asp-controller="Home" asp-action="RegisterUser">Enter</button>
+</form>
+

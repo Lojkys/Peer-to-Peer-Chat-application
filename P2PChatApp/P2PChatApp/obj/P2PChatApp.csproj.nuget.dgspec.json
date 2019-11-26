@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lojka\\Desktop\\greenfox\\Lojkys\\week-10\\day-1\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj": {}
+    "C:\\Users\\Lojka\\Desktop\\greenfox\\Peer-to-Peer-Chat-application\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lojka\\Desktop\\greenfox\\Lojkys\\week-10\\day-1\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj": {
+    "C:\\Users\\Lojka\\Desktop\\greenfox\\Peer-to-Peer-Chat-application\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lojka\\Desktop\\greenfox\\Lojkys\\week-10\\day-1\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj",
+        "projectUniqueName": "C:\\Users\\Lojka\\Desktop\\greenfox\\Peer-to-Peer-Chat-application\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj",
         "projectName": "P2PChatApp",
-        "projectPath": "C:\\Users\\Lojka\\Desktop\\greenfox\\Lojkys\\week-10\\day-1\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj",
+        "projectPath": "C:\\Users\\Lojka\\Desktop\\greenfox\\Peer-to-Peer-Chat-application\\P2PChatApp\\P2PChatApp\\P2PChatApp.csproj",
         "packagesPath": "C:\\Users\\Lojka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lojka\\Desktop\\greenfox\\Lojkys\\week-10\\day-1\\P2PChatApp\\P2PChatApp\\obj\\",
+        "outputPath": "C:\\Users\\Lojka\\Desktop\\greenfox\\Peer-to-Peer-Chat-application\\P2PChatApp\\P2PChatApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [

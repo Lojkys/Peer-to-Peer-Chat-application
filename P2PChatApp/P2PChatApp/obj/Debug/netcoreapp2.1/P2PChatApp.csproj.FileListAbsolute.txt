@@ -1,0 +1,11 @@
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\bin\Debug\netcoreapp2.1\P2PChatApp.deps.json
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\bin\Debug\netcoreapp2.1\P2PChatApp.runtimeconfig.json
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\bin\Debug\netcoreapp2.1\P2PChatApp.runtimeconfig.dev.json
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\bin\Debug\netcoreapp2.1\P2PChatApp.dll
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\obj\Debug\netcoreapp2.1\P2PChatApp.csprojAssemblyReference.cache
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\obj\Debug\netcoreapp2.1\P2PChatApp.RazorAssemblyInfo.cache
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\obj\Debug\netcoreapp2.1\P2PChatApp.RazorAssemblyInfo.cs
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\obj\Debug\netcoreapp2.1\P2PChatApp.AssemblyInfoInputs.cache
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\obj\Debug\netcoreapp2.1\P2PChatApp.AssemblyInfo.cs
+C:\Users\Lojka\Desktop\greenfox\Peer-to-Peer-Chat-application\P2PChatApp\P2PChatApp\obj\Debug\netcoreapp2.1\P2PChatApp.RazorTargetAssemblyInfo.cache
